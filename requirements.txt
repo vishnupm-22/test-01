@@ -2,4 +2,4 @@ nltk==3.6.2
 numpy==1.21.3
 streamlit 
 scikit-learn
-punkt
+punkt==3.6.2
